@@ -1,0 +1,81 @@
+about:
+  description: Erlang/OTP
+  license: Apache-2.0
+  homepage: http://erlang.org
+  head: 5abaf99
+  archived: false
+  latestVersion: OTP-27.3.4.16
+  collectedAt: 2026-08-31T05:58:29Z
+timeline:
+  created: 2009-11-16
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-04
+popularity:
+  star: 12344
+  watcher: 544
+  fork: 3294
+  release: 376
+  contributor: 866
+  pullRequest: 1989
+  issue: 3520
+language:
+  Erlang: 87566042
+  C: 20946592
+  C++: 10523030
+  Makefile: 952623
+  Shell: 665979
+  Java: 533074
+  M4: 349536
+  Emacs Lisp: 348730
+  HTML: 344724
+  DTrace: 226706
+  Assembly: 225367
+  Perl: 209894
+  Python: 166749
+  Elixir: 66245
+  SmPL: 24563
+  XSLT: 18985
+  NSIS: 17405
+  CSS: 10671
+  sed: 8626
+  TLA: 7563
+  Raku: 7301
+  Batchfile: 5469
+  Kotlin: 3630
+  Objective-C: 3193
+  Roff: 2536
+  DIGITAL Command Language: 21
+totalLine: 123235254
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 3
+    mergedPR: 51
+    openPR: 55
+    closedIssue: 8
+    openIssue: 12
+    commit: 280
+  last90d:
+    since: 2026-06-02
+    release: 12
+    mergedPR: 184
+    openPR: 87
+    closedIssue: 48
+    openIssue: 30
+    commit: 914
+  last180d:
+    since: 2026-03-04
+    release: 30
+    mergedPR: 429
+    openPR: 115
+    closedIssue: 101
+    openIssue: 47
+    commit: 1977
+  last360d:
+    since: 2025-09-05
+    release: 49
+    mergedPR: 813
+    openPR: 134
+    closedIssue: 213
+    openIssue: 80
+    commit: 3759
