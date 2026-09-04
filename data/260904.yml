@@ -7,7 +7,7 @@ about:
   head: bf4d114
   archived: false
   latestVersion: OTP-28.5.0.6
-  collectedAt: 2026-09-04T19:55:48Z
+  collectedAt: 2026-09-04T20:43:38Z
 timeline:
   created: 2009-11-16
   lastCommit: 2026-09-04
@@ -105,6 +105,174 @@ total:
   openIssue: 386
   commit: 66124
 ---
+path: /home/runner/.x-repo/github.com/erlang/otp
+collectedAt: 2026-09-04T20:44:16Z
+loc:
+  Erlang:
+    code: 1777414
+    comments: 303836
+    blanks: 291487
+    files: 4072
+  C:
+    code: 394906
+    comments: 59217
+    blanks: 68751
+    files: 601
+  Cpp:
+    code: 155667
+    comments: 12731
+    blanks: 22881
+    files: 119
+  CHeader:
+    code: 115490
+    comments: 43499
+    blanks: 21608
+    files: 465
+  Xml:
+    code: 86231
+    comments: 474
+    blanks: 3563
+    files: 72
+  Svg:
+    code: 85761
+    comments: 46
+    blanks: 14
+    files: 3
+  Asn1:
+    code: 40324
+    comments: 9395
+    blanks: 11336
+    files: 256
+  Makefile:
+    code: 11907
+    comments: 9693
+    blanks: 4717
+    files: 348
+  Autoconf:
+    code: 10506
+    comments: 2666
+    blanks: 2324
+    files: 33
+  Java:
+    code: 8603
+    comments: 6752
+    blanks: 1798
+    files: 73
+  Sh:
+    code: 7881
+    comments: 2685
+    blanks: 1081
+    files: 90
+  Elisp:
+    code: 7134
+    comments: 1043
+    blanks: 1063
+    files: 8
+  AssemblyGAS:
+    code: 6869
+    comments: 122
+    blanks: 421
+    files: 33
+  Html:
+    code: 5609
+    comments: 192
+    blanks: 720
+    files: 66
+  Python:
+    code: 5482
+    comments: 104
+    blanks: 1080
+    files: 32
+  Bitbake:
+    code: 4575
+    comments: 3766
+    blanks: 1400
+    files: 56
+  CppHeader:
+    code: 3817
+    comments: 654
+    blanks: 853
+    files: 7
+  D:
+    code: 3354
+    comments: 910
+    blanks: 141
+    files: 13
+  M4:
+    code: 2821
+    comments: 412
+    blanks: 281
+    files: 1
+  Perl:
+    code: 1618
+    comments: 347
+    blanks: 210
+    files: 9
+  Elixir:
+    code: 1201
+    comments: 852
+    blanks: 101
+    files: 41
+  Bash:
+    code: 851
+    comments: 175
+    blanks: 141
+    files: 7
+  RPMSpecfile:
+    code: 639
+    comments: 0
+    blanks: 44
+    files: 79
+  XSL:
+    code: 427
+    comments: 29
+    blanks: 42
+    files: 1
+  Css:
+    code: 358
+    comments: 83
+    blanks: 49
+    files: 4
+  Json:
+    code: 326
+    comments: 0
+    blanks: 1
+    files: 321
+  ForgeConfig:
+    code: 79
+    comments: 0
+    blanks: 2
+    files: 7
+  Batch:
+    code: 77
+    comments: 83
+    blanks: 24
+    files: 9
+  ModuleDef:
+    code: 25
+    comments: 0
+    blanks: 1
+    files: 1
+  JavaScript:
+    code: 3
+    comments: 2
+    blanks: 0
+    files: 3
+  Markdown:
+    code: 0
+    comments: 141994
+    blanks: 65965
+    files: 399
+  Text:
+    code: 0
+    comments: 241826
+    blanks: 42019
+    files: 817
+total:
+  code: 2757575
+  comments: 844859
+  blanks: 545466
+  files: 8046
 ---
 date: "2026-09-04T13:09:21Z"
 repo:
