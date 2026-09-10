@@ -7,7 +7,7 @@ about:
   latestVersion: "OTP-28.5.0.6"
   latestRelease: "OTP-28.5.0.6"
   latestPrerelease: "OTP-29.0-rc3"
-  collectedAt: 2026-09-10T20:12:23Z
+  collectedAt: 2026-09-10T23:30:56Z
 timeline:
   created: 2009-11-16
   lastCommit: 2026-09-10
@@ -108,7 +108,7 @@ total:
   commit: 66199
 ---
 path: /home/runner/.x-repo/github.com/erlang/otp
-collectedAt: 2026-09-10T20:14:00Z
+collectedAt: 2026-09-10T23:32:16Z
 loc:
   Erlang:
     code: 1778371
