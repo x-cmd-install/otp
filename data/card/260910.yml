@@ -7,7 +7,7 @@ about:
   latestVersion: "OTP-28.5.0.6"
   latestRelease: "OTP-28.5.0.6"
   latestPrerelease: "OTP-29.0-rc3"
-  collectedAt: 2026-09-10T15:59:04Z
+  collectedAt: 2026-09-10T20:12:23Z
 timeline:
   created: 2009-11-16
   lastCommit: 2026-09-10
@@ -21,7 +21,7 @@ popularity:
   release: 379
   contributor: 868
   pullRequest: 8046
-  issue: 3535
+  issue: 3536
 language:
   Erlang: 87819351
   C: 20945336
@@ -56,7 +56,7 @@ recent:
     release: 3
     mergedPR: 66
     openPR: 44
-    closedIssue: 14
+    closedIssue: 15
     openIssue: 17
     commit: 388
   last60d:
@@ -64,7 +64,7 @@ recent:
     release: 9
     mergedPR: 121
     openPR: 59
-    closedIssue: 36
+    closedIssue: 37
     openIssue: 25
     commit: 670
   last90d:
@@ -72,7 +72,7 @@ recent:
     release: 12
     mergedPR: 199
     openPR: 74
-    closedIssue: 55
+    closedIssue: 56
     openIssue: 29
     commit: 1077
   last180d:
@@ -80,7 +80,7 @@ recent:
     release: 29
     mergedPR: 446
     openPR: 105
-    closedIssue: 113
+    closedIssue: 114
     openIssue: 46
     commit: 2129
   last360d:
@@ -88,7 +88,7 @@ recent:
     release: 48
     mergedPR: 848
     openPR: 126
-    closedIssue: 224
+    closedIssue: 225
     openIssue: 75
     commit: 3983
   last720d:
@@ -96,19 +96,19 @@ recent:
     release: 92
     mergedPR: 1697
     openPR: 159
-    closedIssue: 499
+    closedIssue: 500
     openIssue: 134
     commit: 9093
 total:
   release: 379
   mergedPR: 6058
   openPR: 207
-  closedIssue: 3151
+  closedIssue: 3152
   openIssue: 384
   commit: 66199
 ---
 path: /home/runner/.x-repo/github.com/erlang/otp
-collectedAt: 2026-09-10T16:01:07Z
+collectedAt: 2026-09-10T20:14:00Z
 loc:
   Erlang:
     code: 1778371

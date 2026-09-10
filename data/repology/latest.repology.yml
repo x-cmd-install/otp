@@ -1,0 +1,388 @@
+- repo: parrot
+  subrepo: parrot/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-5
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+  categories:
+    - misc
+- repo: kali_rolling
+  subrepo: main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-6
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: pardus_21
+  subrepo: main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-5
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+  categories:
+    - misc
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1build1
+  status: unique
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_14_04
+  subrepo: trusty/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.1
+  origversion: 1:1.2.1-1
+  status: outdated
+  maintainers:
+    - colint@debian.org
+  categories:
+    - universe/misc
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+  categories:
+    - misc
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-2
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-5
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-6
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-6
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: deepin_unstable
+  subrepo: main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-6
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-5
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-2
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-5
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-6
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: trisquel_10_0
+  subrepo: nabia/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1build1
+  status: unique
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1build1
+  status: unique
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1build1
+  status: unique
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1build1
+  status: unique
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-4
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-5
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-5
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-6
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-6
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - universe/misc
