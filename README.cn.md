@@ -12,53 +12,6 @@ Erlang/OTP
 x install otp
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/erlang/otp>
-- **官网**: <http://erlang.org>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `OTP-28.5.0.6` (2026-09-01)
-- **最近提交**: 2026-09-10
-- **Release 含资产**: 14 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [bom.spdx.json](https://github.com/erlang/otp/releases/download/OTP-29.0.6/bom.spdx.json) | 5.6 MiB | `other` |
-| [bom.spdx.json.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.0.6/bom.spdx.json.sigstore) | 5.4 MiB | `other` |
-| [MD5.txt](https://github.com/erlang/otp/releases/download/OTP-29.0.6/MD5.txt) | 177 B | `other` |
-| [OTP-29.0.6.README](https://github.com/erlang/otp/releases/download/OTP-29.0.6/OTP-29.0.6.README) | 18.2 KiB | `other` |
-| [OTP-29.0.6.README.md](https://github.com/erlang/otp/releases/download/OTP-29.0.6/OTP-29.0.6.README.md) | 20.4 KiB | `other` |
-| [otp_doc_html_29.0.6.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_doc_html_29.0.6.tar.gz) | 31.0 MiB | `native/unknown` |
-| [otp_doc_html_29.0.6.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_doc_html_29.0.6.tar.gz.sigstore) | 5.4 MiB | `other` |
-| [otp_doc_man_29.0.6.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_doc_man_29.0.6.tar.gz) | 1.8 MiB | `native/unknown` |
-| [otp_doc_man_29.0.6.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_doc_man_29.0.6.tar.gz.sigstore) | 5.4 MiB | `other` |
-| [otp_src_29.0.6.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_src_29.0.6.tar.gz) | 101.8 MiB | `native/unknown` |
-| [otp_src_29.0.6.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_src_29.0.6.tar.gz.sigstore) | 5.4 MiB | `other` |
-| [otp_win64_29.0.6.exe](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_win64_29.0.6.exe) | 148.4 MiB | `native/win/x64` |
-| [otp_win64_29.0.6.zip](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_win64_29.0.6.zip) | 178.5 MiB | `native/win/x64` |
-| [SHA256.txt](https://github.com/erlang/otp/releases/download/OTP-29.0.6/SHA256.txt) | 273 B | `other` |
-
-## 流行度
-
-- **Star**: 12,330 · **Fork**: 3,272 · **开放 issue**: 3,535 · **贡献者**: 868
-
-## 累计统计
-
-- **发布数**: 379 · **已合并 PR**: 6058 · **开放 PR**: 207 · **已关闭 issue**: 3151 · **开放 issue**: 384 · **提交数**: 66199
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 66 | 44 | 14 | 17 | 388 |
-| 90d | 2026-06-12 | 12 | 199 | 74 | 55 | 29 | 1077 |
-| 360d | 2025-09-15 | 48 | 848 | 126 | 224 | 75 | 3983 |
-
 ## 代码规模
 
 合计: **2,741,028** 行代码（覆盖前 5 种语言、共 **5329** 个文件）。
@@ -79,6 +32,56 @@ x install otp
 
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
+## 源代码
+
+- **上游仓库**: <https://github.com/erlang/otp>
+- **官网**: <http://erlang.org>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `OTP-28.5.0.6` (2026-09-01)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 14 个
+
+## 流行度
+
+- **Star**: 12,330 · **Fork**: 3,272 · **开放 issue**: 3,536 · **贡献者**: 868
+
+## 累计统计
+
+- **发布数**: 379 · **已合并 PR**: 6058 · **开放 PR**: 207 · **已关闭 issue**: 3152 · **开放 issue**: 384 · **提交数**: 66199
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 66 | 44 | 15 | 17 | 388 |
+| last60d | 2026-07-12 | 9 | 121 | 59 | 37 | 25 | 670 |
+| 90d | 2026-06-12 | 12 | 199 | 74 | 56 | 29 | 1077 |
+| last180d | 2026-03-14 | 29 | 446 | 105 | 114 | 46 | 2129 |
+| 360d | 2025-09-15 | 48 | 848 | 126 | 225 | 75 | 3983 |
+| last720d | 2024-09-20 | 92 | 1697 | 159 | 500 | 134 | 9093 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [bom.spdx.json](https://github.com/erlang/otp/releases/download/OTP-29.0.6/bom.spdx.json) | 5.6 MiB | `other` |
+| [bom.spdx.json.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.0.6/bom.spdx.json.sigstore) | 5.4 MiB | `other` |
+| [MD5.txt](https://github.com/erlang/otp/releases/download/OTP-29.0.6/MD5.txt) | 177 B | `other` |
+| [OTP-29.0.6.README](https://github.com/erlang/otp/releases/download/OTP-29.0.6/OTP-29.0.6.README) | 18.2 KiB | `other` |
+| [OTP-29.0.6.README.md](https://github.com/erlang/otp/releases/download/OTP-29.0.6/OTP-29.0.6.README.md) | 20.4 KiB | `other` |
+| [otp_doc_html_29.0.6.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_doc_html_29.0.6.tar.gz) | 31.0 MiB | `native/unknown` |
+| [otp_doc_html_29.0.6.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_doc_html_29.0.6.tar.gz.sigstore) | 5.4 MiB | `other` |
+| [otp_doc_man_29.0.6.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_doc_man_29.0.6.tar.gz) | 1.8 MiB | `native/unknown` |
+| [otp_doc_man_29.0.6.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_doc_man_29.0.6.tar.gz.sigstore) | 5.4 MiB | `other` |
+| [otp_src_29.0.6.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_src_29.0.6.tar.gz) | 101.8 MiB | `native/unknown` |
+| [otp_src_29.0.6.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_src_29.0.6.tar.gz.sigstore) | 5.4 MiB | `other` |
+| [otp_win64_29.0.6.exe](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_win64_29.0.6.exe) | 148.4 MiB | `native/win/x64` |
+| [otp_win64_29.0.6.zip](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_win64_29.0.6.zip) | 178.5 MiB | `native/win/x64` |
+| [SHA256.txt](https://github.com/erlang/otp/releases/download/OTP-29.0.6/SHA256.txt) | 273 B | `other` |
+
 ## 改进这些数据
 
 otp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `otp` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -88,4 +91,4 @@ otp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:01:21Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:14:11Z._
