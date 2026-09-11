@@ -14,11 +14,11 @@ x install otp
 
 ## Code insight
 
-Total: **2,741,028** lines of code across **5329** files in the top 5 languages.
+Total: **2,741,045** lines of code across **5329** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Erlang | 1,778,371 | 303,609 | 291,631 | 4072 |
+| Erlang | 1,778,388 | 303,609 | 291,631 | 4072 |
 | C | 394,883 | 59,219 | 68,753 | 601 |
 | Cpp | 155,811 | 12,761 | 22,885 | 119 |
 | CHeader | 115,482 | 43,497 | 21,605 | 465 |
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `OTP-28.5.0.6` (2026-09-01)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 12,330 · **Forks**: 3,272 · **Open issues**: 3,536 · **Contributors**: 868
+- **Stars**: 12,330 · **Forks**: 3,271 · **Open issues**: 3,538 · **Contributors**: 868
 
 ## Totals (cumulative)
 
-- **Releases**: 379 · **Merged PRs**: 6058 · **Open PRs**: 207 · **Closed issues**: 3152 · **Open issues**: 384 · **Commits**: 66199
+- **Releases**: 379 · **Merged PRs**: 6059 · **Open PRs**: 209 · **Closed issues**: 3153 · **Open issues**: 385 · **Commits**: 66201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 3 | 59 | 40 | 14 | 17 | 388 |
-| last60d | 2026-07-13 | 9 | 118 | 59 | 36 | 24 | 670 |
-| 90d | 2026-06-13 | 12 | 199 | 74 | 56 | 29 | 1077 |
-| last180d | 2026-03-15 | 29 | 446 | 105 | 112 | 46 | 2129 |
-| 360d | 2025-09-16 | 48 | 842 | 126 | 222 | 75 | 3983 |
-| last720d | 2024-09-21 | 92 | 1697 | 159 | 499 | 134 | 9091 |
+| 30d | 2026-08-12 | 3 | 60 | 42 | 15 | 18 | 390 |
+| last60d | 2026-07-13 | 9 | 119 | 61 | 37 | 25 | 672 |
+| 90d | 2026-06-13 | 12 | 200 | 76 | 57 | 30 | 1079 |
+| last180d | 2026-03-15 | 29 | 447 | 107 | 113 | 47 | 2131 |
+| 360d | 2025-09-16 | 48 | 843 | 128 | 223 | 76 | 3985 |
+| last720d | 2024-09-21 | 92 | 1698 | 161 | 500 | 135 | 9093 |
 
 ## Release assets
 
@@ -70,8 +70,8 @@ Lowest-scoring checks:
 | [bom.spdx.json](https://github.com/erlang/otp/releases/download/OTP-29.0.6/bom.spdx.json) | 5.6 MiB | `other` |
 | [bom.spdx.json.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.0.6/bom.spdx.json.sigstore) | 5.4 MiB | `other` |
 | [MD5.txt](https://github.com/erlang/otp/releases/download/OTP-29.0.6/MD5.txt) | 177 B | `other` |
-| [OTP-29.0.6.README](https://github.com/erlang/otp/releases/download/OTP-29.0.6/OTP-29.0.6.README) | 18.2 KiB | `other` |
-| [OTP-29.0.6.README.md](https://github.com/erlang/otp/releases/download/OTP-29.0.6/OTP-29.0.6.README.md) | 20.4 KiB | `other` |
+| [OTP-29.0.6.README](https://github.com/erlang/otp/releases/download/OTP-29.0.6/OTP-29.0.6.README) | 18.4 KiB | `other` |
+| [OTP-29.0.6.README.md](https://github.com/erlang/otp/releases/download/OTP-29.0.6/OTP-29.0.6.README.md) | 21.6 KiB | `other` |
 | [otp_doc_html_29.0.6.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_doc_html_29.0.6.tar.gz) | 31.0 MiB | `native/unknown` |
 | [otp_doc_html_29.0.6.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_doc_html_29.0.6.tar.gz.sigstore) | 5.4 MiB | `other` |
 | [otp_doc_man_29.0.6.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.0.6/otp_doc_man_29.0.6.tar.gz) | 1.8 MiB | `native/unknown` |
@@ -91,4 +91,4 @@ Install metadata for otp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:27:15Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:41:43Z._
