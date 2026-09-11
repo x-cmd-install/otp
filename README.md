@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 66 | 44 | 15 | 17 | 388 |
-| last60d | 2026-07-12 | 9 | 121 | 59 | 37 | 25 | 670 |
-| 90d | 2026-06-12 | 12 | 199 | 74 | 56 | 29 | 1077 |
-| last180d | 2026-03-14 | 29 | 446 | 105 | 114 | 46 | 2129 |
-| 360d | 2025-09-15 | 48 | 848 | 126 | 225 | 75 | 3983 |
-| last720d | 2024-09-20 | 92 | 1697 | 159 | 500 | 134 | 9093 |
+| 30d | 2026-08-12 | 3 | 59 | 40 | 14 | 17 | 388 |
+| last60d | 2026-07-13 | 9 | 118 | 59 | 36 | 24 | 670 |
+| 90d | 2026-06-13 | 12 | 199 | 74 | 56 | 29 | 1077 |
+| last180d | 2026-03-15 | 29 | 446 | 105 | 112 | 46 | 2129 |
+| 360d | 2025-09-16 | 48 | 842 | 126 | 222 | 75 | 3983 |
+| last720d | 2024-09-21 | 92 | 1697 | 159 | 499 | 134 | 9091 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for otp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:32:25Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:27:15Z._
