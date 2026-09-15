@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,330 · **Forks**: 3,271 · **Open issues**: 3,538 · **Contributors**: 868
+- **Stars**: 12,329 · **Forks**: 3,273 · **Open issues**: 3,539 · **Contributors**: 867
 
 ## Totals (cumulative)
 
-- **Releases**: 379 · **Merged PRs**: 6059 · **Open PRs**: 209 · **Closed issues**: 3153 · **Open issues**: 385 · **Commits**: 66201
+- **Releases**: 379 · **Merged PRs**: 6059 · **Open PRs**: 215 · **Closed issues**: 3153 · **Open issues**: 386 · **Commits**: 66201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 3 | 54 | 36 | 15 | 18 | 251 |
-| last60d | 2026-07-16 | 9 | 117 | 61 | 36 | 24 | 649 |
-| 90d | 2026-06-16 | 12 | 186 | 75 | 53 | 29 | 998 |
-| last180d | 2026-03-18 | 29 | 427 | 107 | 107 | 46 | 2031 |
-| 360d | 2025-09-19 | 47 | 832 | 127 | 219 | 74 | 3931 |
-| last720d | 2024-09-24 | 92 | 1690 | 160 | 497 | 134 | 9073 |
+| 30d | 2026-08-16 | 3 | 53 | 42 | 13 | 18 | 251 |
+| last60d | 2026-07-17 | 9 | 116 | 67 | 32 | 25 | 649 |
+| 90d | 2026-06-17 | 12 | 180 | 80 | 53 | 30 | 998 |
+| last180d | 2026-03-19 | 28 | 421 | 112 | 104 | 47 | 2031 |
+| 360d | 2025-09-20 | 47 | 832 | 133 | 219 | 75 | 3931 |
+| last720d | 2024-09-25 | 92 | 1689 | 166 | 497 | 135 | 9055 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for otp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:44:47Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:50:00Z._
