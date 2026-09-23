@@ -4,7 +4,7 @@
 
 Erlang/OTP
 
-[![x-cmd/install — otp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/otp.svg?lang=zh)](https://x-cmd.com/install/otp)
+[![x-cmd/install — otp Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/otp.svg?lang=zh)](https://x-cmd.com/install/otp)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install otp
 
 ## 代码洞察
 
-合计: **2,743,651** 行代码（覆盖前 5 种语言、共 **5335** 个文件）。
+合计: **2,744,555** 行代码（覆盖前 5 种语言、共 **5337** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Erlang | 1,780,111 | 304,156 | 291,888 | 4078 |
+| Erlang | 1,781,013 | 304,412 | 292,025 | 4080 |
 | C | 395,091 | 59,286 | 68,805 | 601 |
 | Cpp | 156,233 | 12,824 | 22,948 | 119 |
 | CHeader | 115,494 | 43,497 | 21,607 | 465 |
@@ -30,7 +30,7 @@ x install otp
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 5/27 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 6/23 approved changesets -- score normalized to 2
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
@@ -41,47 +41,47 @@ x install otp
 
 ## 发布
 
-- **最新版本**: `OTP-29.1` (2026-09-16)
-- **最近提交**: 2026-09-21
+- **最新版本**: `OTP-29.1.1` (2026-09-22)
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 12,335 · **Fork**: 3,275 · **开放 issue**: 3,548 · **贡献者**: 870
+- **Star**: 12,336 · **Fork**: 3,276 · **开放 issue**: 3,549 · **贡献者**: 870
 
 ## 累计统计
 
-- **发布数**: 380 · **已合并 PR**: 6076 · **开放 PR**: 231 · **已关闭 issue**: 3163 · **开放 issue**: 385 · **提交数**: 66362
+- **发布数**: 383 · **已合并 PR**: 6090 · **开放 PR**: 226 · **已关闭 issue**: 3163 · **开放 issue**: 386 · **提交数**: 66459
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 54 | 56 | 18 | 16 | 277 |
-| last60d | 2026-07-24 | 10 | 118 | 81 | 39 | 25 | 718 |
-| 90d | 2026-06-24 | 13 | 176 | 92 | 60 | 30 | 1026 |
-| last180d | 2026-03-26 | 29 | 407 | 124 | 110 | 46 | 2071 |
-| 360d | 2025-09-27 | 48 | 838 | 149 | 227 | 74 | 4039 |
-| last720d | 2024-10-02 | 92 | 1692 | 182 | 493 | 134 | 9125 |
+| 30d | 2026-08-24 | 7 | 66 | 50 | 18 | 17 | 324 |
+| last60d | 2026-07-25 | 13 | 132 | 78 | 38 | 26 | 766 |
+| 90d | 2026-06-25 | 16 | 184 | 88 | 60 | 31 | 1075 |
+| last180d | 2026-03-27 | 32 | 415 | 121 | 110 | 47 | 2120 |
+| 360d | 2025-09-28 | 51 | 851 | 144 | 227 | 75 | 4088 |
+| last720d | 2024-10-03 | 95 | 1699 | 177 | 492 | 135 | 9190 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [bom.spdx.json](https://github.com/erlang/otp/releases/download/OTP-29.1/bom.spdx.json) | 5.6 MiB | `other` |
-| [bom.spdx.json.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.1/bom.spdx.json.sigstore) | 5.4 MiB | `other` |
-| [MD5.txt](https://github.com/erlang/otp/releases/download/OTP-29.1/MD5.txt) | 171 B | `other` |
-| [OTP-29.1.README](https://github.com/erlang/otp/releases/download/OTP-29.1/OTP-29.1.README) | 25.3 KiB | `other` |
-| [OTP-29.1.README.md](https://github.com/erlang/otp/releases/download/OTP-29.1/OTP-29.1.README.md) | 30.6 KiB | `other` |
-| [otp_doc_html_29.1.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.1/otp_doc_html_29.1.tar.gz) | 31.1 MiB | `native/unknown` |
-| [otp_doc_html_29.1.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.1/otp_doc_html_29.1.tar.gz.sigstore) | 5.4 MiB | `other` |
-| [otp_doc_man_29.1.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.1/otp_doc_man_29.1.tar.gz) | 1.9 MiB | `native/unknown` |
-| [otp_doc_man_29.1.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.1/otp_doc_man_29.1.tar.gz.sigstore) | 5.4 MiB | `other` |
-| [otp_src_29.1.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.1/otp_src_29.1.tar.gz) | 101.9 MiB | `native/unknown` |
-| [otp_src_29.1.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.1/otp_src_29.1.tar.gz.sigstore) | 5.4 MiB | `other` |
-| [otp_win64_29.1.exe](https://github.com/erlang/otp/releases/download/OTP-29.1/otp_win64_29.1.exe) | 148.5 MiB | `native/win/x64` |
-| [otp_win64_29.1.zip](https://github.com/erlang/otp/releases/download/OTP-29.1/otp_win64_29.1.zip) | 178.5 MiB | `native/win/x64` |
-| [SHA256.txt](https://github.com/erlang/otp/releases/download/OTP-29.1/SHA256.txt) | 267 B | `other` |
+| [bom.spdx.json](https://github.com/erlang/otp/releases/download/OTP-29.1.1/bom.spdx.json) | 5.6 MiB | `other` |
+| [bom.spdx.json.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.1.1/bom.spdx.json.sigstore) | 5.4 MiB | `other` |
+| [MD5.txt](https://github.com/erlang/otp/releases/download/OTP-29.1.1/MD5.txt) | 177 B | `other` |
+| [OTP-29.1.1.README](https://github.com/erlang/otp/releases/download/OTP-29.1.1/OTP-29.1.1.README) | 5.8 KiB | `other` |
+| [OTP-29.1.1.README.md](https://github.com/erlang/otp/releases/download/OTP-29.1.1/OTP-29.1.1.README.md) | 6.6 KiB | `other` |
+| [otp_doc_html_29.1.1.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.1.1/otp_doc_html_29.1.1.tar.gz) | 31.1 MiB | `native/unknown` |
+| [otp_doc_html_29.1.1.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.1.1/otp_doc_html_29.1.1.tar.gz.sigstore) | 5.4 MiB | `other` |
+| [otp_doc_man_29.1.1.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.1.1/otp_doc_man_29.1.1.tar.gz) | 1.9 MiB | `native/unknown` |
+| [otp_doc_man_29.1.1.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.1.1/otp_doc_man_29.1.1.tar.gz.sigstore) | 5.4 MiB | `other` |
+| [otp_src_29.1.1.tar.gz](https://github.com/erlang/otp/releases/download/OTP-29.1.1/otp_src_29.1.1.tar.gz) | 101.9 MiB | `native/unknown` |
+| [otp_src_29.1.1.tar.gz.sigstore](https://github.com/erlang/otp/releases/download/OTP-29.1.1/otp_src_29.1.1.tar.gz.sigstore) | 5.4 MiB | `other` |
+| [otp_win64_29.1.1.exe](https://github.com/erlang/otp/releases/download/OTP-29.1.1/otp_win64_29.1.1.exe) | 148.5 MiB | `native/win/x64` |
+| [otp_win64_29.1.1.zip](https://github.com/erlang/otp/releases/download/OTP-29.1.1/otp_win64_29.1.1.zip) | 178.6 MiB | `native/win/x64` |
+| [SHA256.txt](https://github.com/erlang/otp/releases/download/OTP-29.1.1/SHA256.txt) | 273 B | `other` |
 
 ## 改进这些数据
 
@@ -92,4 +92,4 @@ otp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:43:00Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:42:54Z._
