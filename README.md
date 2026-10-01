@@ -14,11 +14,11 @@ x install otp
 
 ## Code insight
 
-Total: **2,745,734** lines of code across **5337** files in the top 5 languages.
+Total: **2,745,764** lines of code across **5337** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Erlang | 1,781,919 | 304,662 | 292,256 | 4080 |
+| Erlang | 1,781,949 | 304,669 | 292,258 | 4080 |
 | C | 395,252 | 59,318 | 68,836 | 601 |
 | Cpp | 156,233 | 12,824 | 22,948 | 119 |
 | CHeader | 115,602 | 43,497 | 21,621 | 465 |
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,342 · **Forks**: 3,275 · **Open issues**: 3,564 · **Contributors**: 871
+- **Stars**: 12,345 · **Forks**: 3,275 · **Open issues**: 3,565 · **Contributors**: 871
 
 ## Totals (cumulative)
 
-- **Releases**: 383 · **Merged PRs**: 6125 · **Open PRs**: 217 · **Closed issues**: 3169 · **Open issues**: 395 · **Commits**: 66625
+- **Releases**: 383 · **Merged PRs**: 6127 · **Open PRs**: 220 · **Closed issues**: 3169 · **Open issues**: 396 · **Commits**: 66631
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 7 | 75 | 43 | 18 | 26 | 317 |
-| last60d | 2026-08-01 | 10 | 157 | 71 | 31 | 33 | 866 |
-| 90d | 2026-07-02 | 16 | 198 | 81 | 59 | 39 | 1087 |
-| last180d | 2026-04-03 | 32 | 420 | 114 | 107 | 57 | 2188 |
-| 360d | 2025-10-05 | 51 | 876 | 135 | 229 | 84 | 4199 |
-| last720d | 2024-10-10 | 94 | 1719 | 168 | 488 | 143 | 9220 |
+| 30d | 2026-09-01 | 7 | 73 | 47 | 18 | 27 | 324 |
+| last60d | 2026-08-02 | 10 | 159 | 74 | 30 | 33 | 874 |
+| 90d | 2026-07-03 | 13 | 192 | 84 | 58 | 40 | 1095 |
+| last180d | 2026-04-04 | 32 | 422 | 117 | 107 | 58 | 2196 |
+| 360d | 2025-10-06 | 51 | 876 | 138 | 228 | 85 | 4207 |
+| last720d | 2024-10-11 | 94 | 1719 | 171 | 487 | 143 | 9219 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for otp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:24:19Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:41:10Z._
