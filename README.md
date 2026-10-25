@@ -18,7 +18,7 @@ Total: **2,748,032** lines of code across **5336** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Erlang | 1,784,034 | 305,143 | 292,547 | 4079 |
+| Erlang | 1,784,034 | 305,148 | 292,547 | 4079 |
 | C | 395,203 | 59,288 | 68,791 | 601 |
 | Cpp | 156,396 | 12,845 | 22,984 | 119 |
 | CHeader | 115,616 | 43,506 | 21,627 | 465 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `OTP-27.3.4.19` (2026-10-14)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-24
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 12,355 · **Forks**: 3,225 · **Open issues**: 3,638 · **Contributors**: 874
+- **Stars**: 12,357 · **Forks**: 3,228 · **Open issues**: 3,640 · **Contributors**: 874
 
 ## Totals (cumulative)
 
-- **Releases**: 386 · **Merged PRs**: 6230 · **Open PRs**: 238 · **Closed issues**: 3195 · **Open issues**: 443 · **Commits**: 67173
+- **Releases**: 386 · **Merged PRs**: 6230 · **Open PRs**: 241 · **Closed issues**: 3195 · **Open issues**: 445 · **Commits**: 67176
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 3 | 88 | 60 | 20 | 64 | 413 |
-| last60d | 2026-08-25 | 10 | 192 | 80 | 46 | 77 | 925 |
-| 90d | 2026-07-26 | 16 | 267 | 99 | 67 | 85 | 1395 |
-| last180d | 2026-04-27 | 27 | 463 | 130 | 123 | 99 | 2331 |
-| 360d | 2025-10-29 | 52 | 941 | 155 | 237 | 130 | 4492 |
-| last720d | 2024-11-03 | 94 | 1769 | 188 | 494 | 190 | 9458 |
+| 30d | 2026-09-25 | 3 | 85 | 63 | 18 | 65 | 348 |
+| last60d | 2026-08-26 | 10 | 191 | 83 | 45 | 79 | 808 |
+| 90d | 2026-07-27 | 16 | 265 | 101 | 66 | 87 | 1336 |
+| last180d | 2026-04-28 | 27 | 461 | 133 | 123 | 101 | 2283 |
+| 360d | 2025-10-30 | 52 | 939 | 158 | 236 | 132 | 4447 |
+| last720d | 2024-11-04 | 94 | 1768 | 191 | 493 | 192 | 9461 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for otp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:26:06Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:29:17Z._
