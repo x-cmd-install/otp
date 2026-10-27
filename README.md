@@ -14,23 +14,23 @@ x install otp
 
 ## Code insight
 
-Total: **2,748,032** lines of code across **5336** files in the top 5 languages.
+Total: **2,748,588** lines of code across **5336** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Erlang | 1,784,034 | 305,148 | 292,547 | 4079 |
-| C | 395,203 | 59,288 | 68,791 | 601 |
-| Cpp | 156,396 | 12,845 | 22,984 | 119 |
-| CHeader | 115,616 | 43,506 | 21,627 | 465 |
+| Erlang | 1,784,400 | 305,173 | 292,583 | 4079 |
+| C | 395,261 | 59,288 | 68,795 | 601 |
+| Cpp | 156,442 | 12,849 | 22,989 | 119 |
+| CHeader | 115,652 | 43,504 | 21,629 | 465 |
 | Xml | 86,231 | 474 | 3,563 | 72 |
 
 ## OpenSSF Scorecard
 
-Overall score: **8 / 10**
+Overall score: **8.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 5/28 approved changesets -- score normalized to 1
+- **Code-Review** (3/10) — Found 9/24 approved changesets -- score normalized to 3
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `OTP-27.3.4.19` (2026-10-14)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-26
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 12,358 · **Forks**: 3,228 · **Open issues**: 3,640 · **Contributors**: 874
+- **Stars**: 12,357 · **Forks**: 3,230 · **Open issues**: 3,642 · **Contributors**: 875
 
 ## Totals (cumulative)
 
-- **Releases**: 386 · **Merged PRs**: 6230 · **Open PRs**: 241 · **Closed issues**: 3195 · **Open issues**: 445 · **Commits**: 67176
+- **Releases**: 386 · **Merged PRs**: 6243 · **Open PRs**: 229 · **Closed issues**: 3195 · **Open issues**: 447 · **Commits**: 67223
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 3 | 85 | 63 | 18 | 65 | 348 |
-| last60d | 2026-08-27 | 10 | 179 | 82 | 44 | 79 | 808 |
-| 90d | 2026-07-28 | 13 | 265 | 100 | 65 | 87 | 1336 |
-| last180d | 2026-04-29 | 27 | 458 | 133 | 123 | 101 | 2283 |
-| 360d | 2025-10-31 | 52 | 939 | 158 | 235 | 132 | 4447 |
-| last720d | 2024-11-05 | 94 | 1763 | 191 | 493 | 191 | 9452 |
+| 30d | 2026-09-27 | 3 | 92 | 53 | 18 | 66 | 394 |
+| last60d | 2026-08-28 | 10 | 186 | 72 | 43 | 80 | 855 |
+| 90d | 2026-07-29 | 13 | 278 | 88 | 62 | 89 | 1383 |
+| last180d | 2026-04-30 | 27 | 468 | 121 | 122 | 103 | 2330 |
+| 360d | 2025-11-01 | 52 | 950 | 146 | 235 | 134 | 4494 |
+| last720d | 2024-11-06 | 94 | 1773 | 179 | 490 | 193 | 9494 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for otp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:32:13Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:53:31Z._
