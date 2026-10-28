@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5848370,
       "digest": "sha256:9a2bb90bf49685eea9060153a031b479e4e0c76d5afe9e6cae4b7a21303612d3",
-      "download_count": 105,
+      "download_count": 119,
       "created_at": "2026-10-14T16:44:45Z",
       "updated_at": "2026-10-14T16:44:45Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/bom.spdx.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5672554,
       "digest": "sha256:7835b3818bf2737c88b1fadcc8044874431e8d3ec8936e7af68809858ae6d045",
-      "download_count": 103,
+      "download_count": 116,
       "created_at": "2026-10-14T16:44:44Z",
       "updated_at": "2026-10-14T16:44:44Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/bom.spdx.json.sigstore"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 177,
       "digest": "sha256:5618644471151a16313fdb83cf4d23db53e460a4062cc1024e64dc6c95854416",
-      "download_count": 69,
+      "download_count": 75,
       "created_at": "2026-10-14T16:44:43Z",
       "updated_at": "2026-10-14T16:44:43Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/MD5.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 17410,
       "digest": "sha256:77b5deef0a269ed3a048574be7b7a776a72b277e313a316a610790ba209bc461",
-      "download_count": 945,
+      "download_count": 1015,
       "created_at": "2026-10-14T15:31:06Z",
       "updated_at": "2026-10-14T15:31:06Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/OTP-29.1.2.README"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 19340,
       "digest": "sha256:4cad154d378cd0e14ee3626094d10097a63ddb29459f8c6d78a2cc4100dbabc4",
-      "download_count": 59,
+      "download_count": 68,
       "created_at": "2026-10-14T15:31:07Z",
       "updated_at": "2026-10-14T15:31:07Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/OTP-29.1.2.README.md"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 32572669,
       "digest": "sha256:366c3864be2c6a34b134e902fdc5977c6aa74933b0d335ead21b14a043929b36",
-      "download_count": 1789,
+      "download_count": 1933,
       "created_at": "2026-10-14T16:44:43Z",
       "updated_at": "2026-10-14T16:44:44Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/otp_doc_html_29.1.2.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5672554,
       "digest": "sha256:7835b3818bf2737c88b1fadcc8044874431e8d3ec8936e7af68809858ae6d045",
-      "download_count": 96,
+      "download_count": 107,
       "created_at": "2026-10-14T16:44:44Z",
       "updated_at": "2026-10-14T16:44:44Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/otp_doc_html_29.1.2.tar.gz.sigstore"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1947852,
       "digest": "sha256:9e1adc780cafdd90aa28e864a5843d7108864c133581c539eec7a5ea34baff01",
-      "download_count": 875,
+      "download_count": 948,
       "created_at": "2026-10-14T16:44:43Z",
       "updated_at": "2026-10-14T16:44:43Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/otp_doc_man_29.1.2.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5672554,
       "digest": "sha256:7835b3818bf2737c88b1fadcc8044874431e8d3ec8936e7af68809858ae6d045",
-      "download_count": 49,
+      "download_count": 54,
       "created_at": "2026-10-14T16:44:44Z",
       "updated_at": "2026-10-14T16:44:44Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/otp_doc_man_29.1.2.tar.gz.sigstore"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 106854380,
       "digest": "sha256:c79966661e35fe4aff8ec003db63682e3b33b10b672220d51bf93c0a9244b049",
-      "download_count": 9461,
+      "download_count": 10491,
       "created_at": "2026-10-14T16:44:43Z",
       "updated_at": "2026-10-14T16:44:48Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/otp_src_29.1.2.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5672554,
       "digest": "sha256:7835b3818bf2737c88b1fadcc8044874431e8d3ec8936e7af68809858ae6d045",
-      "download_count": 54,
+      "download_count": 64,
       "created_at": "2026-10-14T16:44:44Z",
       "updated_at": "2026-10-14T16:44:45Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/otp_src_29.1.2.tar.gz.sigstore"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 155770072,
       "digest": "sha256:38297ee6fa8cafbc016cb187ebda30f7bdae85618415d9dbbbe413e9b9e27a4e",
-      "download_count": 14534,
+      "download_count": 15528,
       "created_at": "2026-10-14T15:31:07Z",
       "updated_at": "2026-10-14T15:31:14Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/otp_win64_29.1.2.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 187258393,
       "digest": "sha256:4efe9772a84c6c1ef75377e9326815584958776c905f2bf687b62509e2d809c0",
-      "download_count": 1452,
+      "download_count": 1624,
       "created_at": "2026-10-14T17:24:26Z",
       "updated_at": "2026-10-14T17:24:34Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/otp_win64_29.1.2.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 273,
       "digest": "sha256:657b0a2d40717157891a0edf8bce1cb808f17fd86e7a69af0c42d31205a27a9c",
-      "download_count": 273,
+      "download_count": 297,
       "created_at": "2026-10-14T16:44:43Z",
       "updated_at": "2026-10-14T16:44:43Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-29.1.2/SHA256.txt"
