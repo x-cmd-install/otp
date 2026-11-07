@@ -1,4 +1,17 @@
-- repo: kali_rolling
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+  categories:
+    - universe/misc
+- repo: raspbian_testing
   subrepo: main
   srcname: otp
   binnames:
@@ -11,95 +24,19 @@
     - packages@qa.debian.org
   categories:
     - misc
-- repo: pardus_21
-  subrepo: main
+- repo: ubuntu_14_04
+  subrepo: trusty/universe
   srcname: otp
   binnames:
     - otp
   visiblename: otp
-  version: 1.2.2
-  origversion: 1:1.2.2-1
-  status: unique
+  version: 1.2.1
+  origversion: 1:1.2.1-1
+  status: outdated
   maintainers:
     - colint@debian.org
   categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: otp
-  binnames:
-    - otp
-  visiblename: otp
-  version: 1.2.2
-  origversion: 1:1.2.2-5
-  status: unique
-  maintainers:
-    - packages@qa.debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: otp
-  binnames:
-    - otp
-  visiblename: otp
-  version: 1.2.2
-  origversion: 1:1.2.2-5
-  status: unique
-  maintainers:
-    - packages@qa.debian.org
-  categories:
-    - misc
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: otp
-  binnames:
-    - otp
-  visiblename: otp
-  version: 1.2.2
-  origversion: 1:1.2.2-1
-  status: unique
-  maintainers:
-    - colint@debian.org
-  categories:
-    - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: otp
-  binnames:
-    - otp
-  visiblename: otp
-  version: 1.2.2
-  origversion: 1:1.2.2-1
-  status: unique
-  maintainers:
-    - colint@debian.org
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: otp
-  binnames:
-    - otp
-  visiblename: otp
-  version: 1.2.2
-  origversion: 1:1.2.2-1
-  status: unique
-  maintainers:
-    - colint@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: otp
-  binnames:
-    - otp
-  visiblename: otp
-  version: 1.2.2
-  origversion: 1:1.2.2-6
-  status: unique
-  maintainers:
-    - packages@qa.debian.org
-  categories:
-    - misc
+    - universe/misc
 - repo: debian_11
   subrepo: bullseye/main
   srcname: otp
@@ -165,6 +102,108 @@
     - packages@qa.debian.org
   categories:
     - misc
+- repo: deepin_unstable
+  subrepo: main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-6
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: kali_rolling
+  subrepo: main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-6
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: pardus_21
+  subrepo: main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-5
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-5
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - misc
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-1
+  status: unique
+  maintainers:
+    - colint@debian.org
+  categories:
+    - misc
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: otp
@@ -217,45 +256,6 @@
     - packages@qa.debian.org
   categories:
     - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: otp
-  binnames:
-    - otp
-  visiblename: otp
-  version: 1.2.2
-  origversion: 1:1.2.2-6
-  status: unique
-  maintainers:
-    - packages@qa.debian.org
-  categories:
-    - misc
-- repo: ubuntu_14_04
-  subrepo: trusty/universe
-  srcname: otp
-  binnames:
-    - otp
-  visiblename: otp
-  version: 1.2.1
-  origversion: 1:1.2.1-1
-  status: outdated
-  maintainers:
-    - colint@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_16_04
-  subrepo: xenial/universe
-  srcname: otp
-  binnames:
-    - otp
-  visiblename: otp
-  version: 1.2.2
-  origversion: 1:1.2.2-1
-  status: unique
-  maintainers:
-    - colint@debian.org
-  categories:
-    - universe/misc
 - repo: ubuntu_18_04
   subrepo: bionic/universe
   srcname: otp
@@ -349,6 +349,19 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: otp
+  binnames:
+    - otp
+  visiblename: otp
+  version: 1.2.2
+  origversion: 1:1.2.2-6
+  status: unique
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: otp
   binnames:
     - otp
