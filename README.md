@@ -30,7 +30,7 @@ Overall score: **8.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 10/27 approved changesets -- score normalized to 3
+- **Code-Review** (4/10) — Found 11/27 approved changesets -- score normalized to 4
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `OTP-27.3.4.19` (2026-10-14)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 12,361 · **Forks**: 3,228 · **Open issues**: 3,784 · **Contributors**: 884
+- **Stars**: 12,362 · **Forks**: 3,228 · **Open issues**: 3,785 · **Contributors**: 884
 
 ## Totals (cumulative)
 
-- **Releases**: 386 · **Merged PRs**: 6291 · **Open PRs**: 242 · **Closed issues**: 3326 · **Open issues**: 458 · **Commits**: 67434
+- **Releases**: 386 · **Merged PRs**: 6292 · **Open PRs**: 251 · **Closed issues**: 3326 · **Open issues**: 459 · **Commits**: 67436
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 3 | 73 | 64 | 128 | 76 | 377 |
-| last60d | 2026-09-12 | 7 | 195 | 84 | 155 | 90 | 853 |
-| 90d | 2026-08-13 | 10 | 275 | 99 | 179 | 99 | 1404 |
-| last180d | 2026-05-15 | 26 | 507 | 130 | 243 | 114 | 2489 |
-| 360d | 2025-11-16 | 49 | 981 | 157 | 350 | 145 | 4589 |
-| last720d | 2024-11-21 | 94 | 1772 | 191 | 608 | 201 | 9442 |
+| 30d | 2026-10-13 | 3 | 67 | 73 | 127 | 76 | 379 |
+| last60d | 2026-09-13 | 7 | 196 | 93 | 155 | 91 | 855 |
+| 90d | 2026-08-14 | 10 | 272 | 105 | 179 | 100 | 1406 |
+| last180d | 2026-05-16 | 26 | 507 | 139 | 243 | 114 | 2491 |
+| 360d | 2025-11-17 | 49 | 981 | 166 | 350 | 146 | 4591 |
+| last720d | 2024-11-22 | 94 | 1771 | 200 | 607 | 202 | 9439 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for otp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T05:57:19Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:05:29Z._
