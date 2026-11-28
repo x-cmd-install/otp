@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 20704,
       "digest": "sha256:333836b44781fe769c8845b591bb2ecca4c7d6b5e46d5f4f8e571a7c6589ae34",
-      "download_count": 21,
+      "download_count": 23,
       "created_at": "2026-11-24T15:31:42Z",
       "updated_at": "2026-11-24T15:31:43Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-27.3.4.20/OTP-27.3.4.20.README"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 24243,
       "digest": "sha256:cdce6c8b1e550df38f31663ac5e69fb4ff94b870f6edf60de747cb2d179fb333",
-      "download_count": 36,
+      "download_count": 43,
       "created_at": "2026-11-24T15:31:43Z",
       "updated_at": "2026-11-24T15:31:44Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-27.3.4.20/OTP-27.3.4.20.README.md"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 26271601,
       "digest": "sha256:6f83185e139cb39e29c891ce14642d68e94982130cb76548ddcb97e6f172d1ee",
-      "download_count": 54,
+      "download_count": 60,
       "created_at": "2026-11-24T15:02:07Z",
       "updated_at": "2026-11-24T15:02:09Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-27.3.4.20/otp_doc_html_27.3.4.20.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 45262,
       "digest": "sha256:211519a116061ac410a007d52b1e7b80e628af09d1430e5788c634bb07ded5f6",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-11-24T15:02:07Z",
       "updated_at": "2026-11-24T15:02:08Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-27.3.4.20/otp_doc_man_27.3.4.20.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 101826623,
       "digest": "sha256:9717de6c0b7ca569770e09c70aa3d36b88a53d509bacfa8688927fbfd119e7ff",
-      "download_count": 799,
+      "download_count": 948,
       "created_at": "2026-11-24T15:02:07Z",
       "updated_at": "2026-11-24T15:02:11Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-27.3.4.20/otp_src_27.3.4.20.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 122491872,
       "digest": "sha256:beab19a88be2d7a0cd672e8e1d3d126688880cc97aa938aef92a58fce285cef8",
-      "download_count": 81,
+      "download_count": 85,
       "created_at": "2026-11-24T15:31:44Z",
       "updated_at": "2026-11-24T15:31:50Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-27.3.4.20/otp_win32_27.3.4.20.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 140071640,
       "digest": "sha256:bfe9fecd505de5bf4f3d631a7a07c8ff7766068cfae5acc479d451c6ca32fa36",
-      "download_count": 1667,
+      "download_count": 2063,
       "created_at": "2026-11-24T15:31:51Z",
       "updated_at": "2026-11-24T15:31:57Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-27.3.4.20/otp_win64_27.3.4.20.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 157899236,
       "digest": "sha256:029505327f29565c40395a3719f5ca0e3b5b8fe72b2f2fabdfb12766068f63d0",
-      "download_count": 218,
+      "download_count": 390,
       "created_at": "2026-11-24T16:11:16Z",
       "updated_at": "2026-11-24T16:11:22Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-27.3.4.20/otp_win64_27.3.4.20.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 282,
       "digest": "sha256:300757923f0925d6e8fea2c449b256a491fba82a1f3bcaf217f08cdb13bf90bc",
-      "download_count": 115,
+      "download_count": 141,
       "created_at": "2026-11-24T15:02:07Z",
       "updated_at": "2026-11-24T15:02:07Z",
       "browser_download_url": "https://github.com/erlang/otp/releases/download/OTP-27.3.4.20/SHA256.txt"
